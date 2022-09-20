@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 
+# Adding this since I'm in Ruby 3. /shrug
+gem "webrick"
+
 gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"
