@@ -13,8 +13,8 @@ sidebar:
     text: "<a href='https://github.com/gamenew09/np-purple-storefronts' target='_blank'>https://github.com/gamenew09/np-purple-storefronts</a>"
 ---
 
-This project, while running fine, is currently being updated consistently. Some changes made may not be reflected in this portfolio yet.
-{: .notice--warning}
+I have stopped working on this project due to NoPixel Purple being shut down.
+{: .notice--danger}
 
 This website is a project that I made for LSBN as Roy Wilson on NoPixel Purple. The website is a map of storefront markers that describe not only location but also its name, short description, and images relating to the storefront. People can login using their Discord account, and if they have permission, add new storefronts or edit existing ones as needed.
 
