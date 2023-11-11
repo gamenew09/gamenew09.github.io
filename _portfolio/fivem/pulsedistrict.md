@@ -1,10 +1,10 @@
 ---
 title: "PulseDistrict FiveM Server"
-excerpt: "A FiveM server that is set within the Cyberpunk 2077 universe."
+excerpt: "A FiveM Roleplay server that is set within the Cyberpunk 2077 universe."
 category: FiveM
 header:
-  image: /assets/images/portfolio/np-purple-storefronts/big/storefront_map_overview_image.png
-  teaser: /assets/images/portfolio/np-purple-storefronts/thumb/project-listing-icon.png
+  image: /assets/images/portfolio/pulsedistrict/cover.png
+  teaser: /assets/images/portfolio/pulsedistrict/cover_thumb.png
 sidebar:
   - title: "Discord"
     text: "<a href='https://discord.gg/pulsedistrict' target='_blank'>https://discord.gg/pulsedistrict</a>"
@@ -14,6 +14,4 @@ sidebar:
     text: "Actively Working"
 ---
 
-This FiveM server I helped with their Alpha, Beta, and Beta 2.0 development process. I addressed bugs within the server alongside creating resources to enhance the experience of the server.
-
-Due to the nature of the server, I won't be exposing publicly the technical details of the work I have done here. That is saved mainly for my open source projects.
+PulseDistrict is a FiveM Roleplay server is based upon the Cyberpunk 2077 universe. They introduced some cutting edge features including, but not limited to Cybernetics, unique heists, and travel to another planet. I addressed bugs within the server and fixed them alongside creating some resources to enhance the experience of the server.
