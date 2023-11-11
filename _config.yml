@@ -16,9 +16,7 @@
 title: Gamenew09
 email: gamenew09+contact@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am gamenew09. I make stuff for FiveM and other places.
 twitter_username: gamenew09
 github_username: gamenew09
 minimal_mistakes_skin: dark
@@ -60,7 +58,7 @@ plugins:
 author:
   name   : "Gamenew09"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am gamenew09. I make stuff."
+  bio    : "I am gamenew09. I make stuff for FiveM and other places."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
